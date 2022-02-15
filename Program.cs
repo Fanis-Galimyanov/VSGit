@@ -6,9 +6,8 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello IT Park!!!!");
-            Console.WriteLine("Hello IT Park!!!!");
-            Console.WriteLine("Hello World!");
+            var same = new Object();
+            same.ToString();
         }
     }
 }
