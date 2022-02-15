@@ -7,6 +7,7 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello IT Park!!!!");
+            Console.WriteLine("Hello IT Park!!!!");
         }
     }
 }
